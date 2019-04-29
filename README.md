@@ -1,4 +1,4 @@
-#Combat Battle Simulator Project
+# Combat Battle Simulator Project
 
 ## simple_game:
 At the start of the game, each commander is given a starting total of $10. Units are purchased
@@ -22,7 +22,7 @@ console until one army is defeated. Once this occurs, the winner is listed and t
 ends.
 
 
-##extended_game:
+## extended_game:
 
 The extended_game is the extension of basic game with the following advancements.
 
