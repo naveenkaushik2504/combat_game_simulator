@@ -41,7 +41,11 @@ spent on Medics.
 
 
 ## Prerequisites
-Python version 3.6
+Python version 3.6.5
 
 ## Running
+```
 python basic_game.py 
+python extended_game.py
+```
+
