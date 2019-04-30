@@ -44,3 +44,4 @@ spent on Medics.
 Python version 3.6
 
 ## Running
+python basic_game.py 
