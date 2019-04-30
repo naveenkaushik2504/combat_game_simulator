@@ -39,3 +39,8 @@ they will be unable to save any more units.
 Medics are hired and supplied at $1 per unit. All money at the end of army creation is
 spent on Medics.
 
+
+## Prerequisites
+Python version 3.6
+
+## Running
